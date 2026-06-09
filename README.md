@@ -5,7 +5,7 @@
 ～・～・～・～<br>
 
 中指同時シフト・拗音拡張・外来語拡張・清濁同置。<br>
-新下駄および、JIS下駄、薙刀式、新JISなどに影響を受けつつ、N-gramを強く意識して設計。
+新下駄および、JIS下駄、薙刀式、新JISなどに影響を受けつつ、新下駄同様、N-gramを強く意識して設計。
 
 ![docs/yazgi_layout.png](docs/yazgi_layout.png)
 
