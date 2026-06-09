@@ -6,6 +6,8 @@
 
 ![docs/yazgi_youon.png](docs/yazgi_youon.png)
 
+## 打ち方
+
 - 左手の★と右手キー → 左上のかな（薄赤色）
 - 右手の★と左手キー → 左上のかな（薄赤色）
 - 濁音・半濁音も同じく、反対の手のキーと同時押し
@@ -13,6 +15,12 @@
 - 小文字についても同じく、キーに薄黄色（右上に記載）で印字のあるキーについては小文字入力が可能
   - 拗音拡張にも留意
 - 拗音拡張については、左右の対応するキーを同時押し（例えば、り + よ = りょ）
+
+## 設定ファイル
+
+- やまぶきR (Windows): [Yazgi.yab](./Yazgi.yab)
+- 紅皿 (Windows): [Yazgi.bnz](./Yazgi.bnz)
+- Karabiner-Elements (macOS): [Yazgi.karabiner.json](./Yazgi.karabiner.json) (Complex modificationsに追加。追加方法は割愛。)
 
 ## 設計思想
 
