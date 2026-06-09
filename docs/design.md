@@ -17,3 +17,8 @@
 - [wikipedia_ja_ngram](https://github.com/oktopus1959/wikipedia_ja_ngram) などのN-gramを基準に、頻度に基づいた設計
 - 新下駄で打ちづらいパターンを極力回避（基本的には、新下駄の打鍵経験から直感・試行錯誤により配置を変更）
 - 薙刀式・新JIS・新下駄を参考に、単打をまず設計しつつ、JIS下駄ゆずりの拗音拡張・外来語拡張を実現するために、左右配置を調整
+
+## 配列の名称
+
+- Yet Another Next (Tsugi = zgi) Japanese Input Layout
+- 作者の作成した配列が、JIS下駄に続いて2作目なので。新下駄の意思を継ぐ意味合いもあり。次の将来的な理想の配列にバトンを渡すまでの橋渡し的意味合い。
