@@ -1,8 +1,8 @@
 {
-  "title": "矢次配列",
+  "title": "矢次配列 (Yazgi Layout)",
   "rules": [
     {
-      "description": "矢次配列 for JP keyboard",
+      "description": "矢次配列 (Yazgi Layout) for JP keyboard",
       "manipulators": [
         {
           "type": "basic",
