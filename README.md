@@ -32,3 +32,7 @@
 ## 設計思想
 
 see [docs/design.md](docs/design.md)
+
+## ライセンス / License
+
+- MIT License / Apache License / WTFPL License のトリプルライセンス。
