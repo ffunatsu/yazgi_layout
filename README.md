@@ -2,6 +2,10 @@
 
 新下駄の哲学をより覚えやすく身近に。中置同時シフト・拗音拡張・外来語拡張。
 
+![docs/yazgi_layout.png](docs/yazgi_layout.png)
+
+![docs/yazgi_youon.png](docs/yazgi_youon.png)
+
 ## 設計思想
 
 see [docs/design.md](docs/design.md)
