@@ -2,7 +2,7 @@
 
 ***Y***et ***A***nother ***Z***-***G***eneration Japanese ***I***nput Layout
 
-新下駄配列の哲学を継承しつつ、より覚えやすく身近に。
+[新下駄配列](https://kouy.exblog.jp/13627994/)の哲学を継承しつつ、より覚えやすく身近に。
 
 ----
 
