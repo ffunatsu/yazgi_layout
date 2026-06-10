@@ -21,6 +21,6 @@
 
 ## 配列の名称
 
-- ***Y***et ***A***nother Next (Tsugi = ***zgi***) Japanese Input Layout
-  - or/and: ***Y***et ***A***nother ***Z***-***G***eneration ***I***nput Layout
+- ***Y***et ***A***nother ***Z***-***G***eneration Japanese ***I***nput Layout
+  - and also: ***Y***et ***A***nother Next (**Tsugi** = ***zgi***) Japanese Input Layout
 - 作者の作成した配列が、JIS下駄に続いて2作目なので。新下駄の意思を継ぐ意味合いもあり。次の将来的な理想の配列にバトンを渡すまでの橋渡し的意味合い。
