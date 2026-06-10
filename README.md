@@ -1,8 +1,10 @@
 # 矢次配列 - Yazgi Layout
 
-～・～・～・～<br>
-新下駄配列の哲学を継承しつつ、より覚えやすく身近に。<br>
-～・～・～・～<br>
+***Y***et ***A***nother ***Z***-***G***eneration Japanese ***I***nput Layout
+
+新下駄配列の哲学を継承しつつ、より覚えやすく身近に。
+
+----
 
 中指同時シフト・拗音拡張・外来語拡張・清濁同置。<br>
 新下駄および、[JIS下駄](https://github.com/ffunatsu/jis_geta)、薙刀式、新JISなどに影響を受けつつ、新下駄と同じくN-gramを強く意識して設計。
