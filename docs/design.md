@@ -24,4 +24,4 @@
 ## 配列の名称
 
 - ***Y***et ***A***nother Next (= Tsugi = ***zgi***) ***Z***-***G***eneration Japanese ***I***nput Layout
-- 作者の作成した配列が、[JIS下駄](https://github.com/ffunatsu/jis_geta)に続いて2作目なので。また、新下駄の意思を継ぐ意味合いもあり。次の将来的な理想の配列にバトンを渡すまでの橋渡し的意味合い。
+- 作者の作成した配列が、[JIS下駄](https://github.com/ffunatsu/jis_geta)に続いて2作目なので。また、新下駄の意思を継ぐ意味合いもあり。次の将来的な理想の配列（新下駄含む）にバトンを渡すまでの橋渡し的意味合い。
