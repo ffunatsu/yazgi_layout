@@ -34,6 +34,10 @@
 
 see [docs/design.md](docs/design.md)
 
+## 性能分析
+
+see [docs/analysis.md](docs/analysis.md)
+
 ## ライセンス / License
 
 - MIT License / Apache License / WTFPL License のトリプルライセンス。
