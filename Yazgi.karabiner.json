@@ -1199,10 +1199,10 @@
           },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "r"
             },
             {
-              "key_code": "u"
+              "key_code": "o"
             }
           ],
           "conditions": [
@@ -1237,13 +1237,13 @@
                 "shift"
               ]
             }
-          },
+          },          
           "to": [
             {
-              "key_code": "r"
+              "key_code": "m"
             },
             {
-              "key_code": "o"
+              "key_code": "u"
             }
           ],
           "conditions": [
