@@ -1,5 +1,8 @@
 # 性能分析
 
+> [!Warning]
+> 以下は、v0.1.2 時点での測定結果であることに注意。
+
 [keyboard_analyzer_jisgeta_yazgi](https://github.com/ffunatsu/keyboard_analyzer_jisgeta_yazgi) （日本語キー配列アナライザー、フォークしてJIS下駄とYazgiを追加した版） を使って分析。
 
 上ツールのGitHub Pages版は[こちら](https://ffunatsu.github.io/keyboard_analyzer_jisgeta_yazgi_static/)。
