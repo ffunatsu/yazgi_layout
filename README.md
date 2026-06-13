@@ -8,7 +8,8 @@
 
 ----
 
-中指同時シフト・拗音拡張・清濁同置。（→ [設計思想](docs/design.md)）<br>
+中指同時シフト・拗音拡張・清濁同置。（→ [設計思想](docs/design.md)）
+
 新下駄および、[JIS下駄](https://github.com/ffunatsu/jis_geta)、薙刀式、新JISなどに影響を受けつつ、新下駄と同じくN-gramを強く意識して設計。
 
 ![docs/yazgi_layout.png](docs/yazgi_layout.png)
