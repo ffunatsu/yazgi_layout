@@ -7,6 +7,56 @@
         {
           "type": "basic",
           "from": {
+            "key_code": "1"
+          },
+          "to": [
+            {
+              "key_code": "page_down"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "keyboard_type_if",
+              "keyboard_types": [
+                "jis"
+              ]
+            },
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com\\.apple\\.loginwindow$"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "q"
+          },
+          "to": [
+            {
+              "key_code": "hyphen"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "keyboard_type_if",
+              "keyboard_types": [
+                "jis"
+              ]
+            },
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com\\.apple\\.loginwindow$"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
             "key_code": "1",
             "modifiers": {
               "mandatory": [
@@ -1158,7 +1208,7 @@
           },
           "to": [
             {
-              "key_code": "k"
+              "key_code": "s"
             },
             {
               "key_code": "e"
@@ -1199,10 +1249,10 @@
           },
           "to": [
             {
-              "key_code": "r"
+              "key_code": "m"
             },
             {
-              "key_code": "o"
+              "key_code": "u"
             }
           ],
           "conditions": [
@@ -1237,13 +1287,13 @@
                 "shift"
               ]
             }
-          },          
+          },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "r"
             },
             {
-              "key_code": "u"
+              "key_code": "o"
             }
           ],
           "conditions": [
@@ -2139,7 +2189,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "g"
             },
             {
               "key_code": "e"
@@ -2182,7 +2232,7 @@
           },
           "to": [
             {
-              "key_code": "g"
+              "key_code": "z"
             },
             {
               "key_code": "e"
@@ -2317,7 +2367,7 @@
           },
           "to": [
             {
-              "key_code": "g"
+              "key_code": "z"
             },
             {
               "key_code": "e"
@@ -10460,7 +10510,7 @@
           },
           "to": [
             {
-              "key_code": "s"
+              "key_code": "k"
             },
             {
               "key_code": "e"
@@ -10496,7 +10546,7 @@
           },
           "to": [
             {
-              "key_code": "k"
+              "key_code": "s"
             },
             {
               "key_code": "e"
