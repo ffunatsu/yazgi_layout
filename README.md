@@ -1,6 +1,6 @@
 # 矢次配列 - Yazgi Layout
 
-![version](http://img.shields.io/badge/version-v0.1.3-blue.svg?style=flat)
+![version](http://img.shields.io/badge/version-v0.1.4-blue.svg?style=flat)
 
 ***Y***et ***A***nother Next (= Tsugi = ***zgi***) ***Z***-***G***eneration Japanese ***I***nput Layout
 
