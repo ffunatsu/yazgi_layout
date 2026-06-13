@@ -7,56 +7,6 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "1"
-          },
-          "to": [
-            {
-              "key_code": "page_down"
-            }
-          ],
-          "conditions": [
-            {
-              "type": "keyboard_type_if",
-              "keyboard_types": [
-                "jis"
-              ]
-            },
-            {
-              "type": "frontmost_application_unless",
-              "bundle_identifiers": [
-                "^com\\.apple\\.loginwindow$"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
-            "key_code": "q"
-          },
-          "to": [
-            {
-              "key_code": "hyphen"
-            }
-          ],
-          "conditions": [
-            {
-              "type": "keyboard_type_if",
-              "keyboard_types": [
-                "jis"
-              ]
-            },
-            {
-              "type": "frontmost_application_unless",
-              "bundle_identifiers": [
-                "^com\\.apple\\.loginwindow$"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
             "key_code": "1",
             "modifiers": {
               "mandatory": [
@@ -8284,16 +8234,10 @@
           },
           "to": [
             {
-              "key_code": "t"
+              "key_code": "m"
             },
             {
-              "key_code": "o"
-            },
-            {
-              "key_code": "x"
-            },
-            {
-              "key_code": "e"
+              "key_code": "i"
             }
           ],
           "conditions": [
@@ -8326,16 +8270,10 @@
           },
           "to": [
             {
-              "key_code": "d"
+              "key_code": "m"
             },
             {
-              "key_code": "e"
-            },
-            {
-              "key_code": "x"
-            },
-            {
-              "key_code": "e"
+              "key_code": "a"
             }
           ],
           "conditions": [
@@ -8368,13 +8306,10 @@
           },
           "to": [
             {
-              "key_code": "p"
+              "key_code": "h"
             },
             {
-              "key_code": "y"
-            },
-            {
-              "key_code": "e"
+              "key_code": "o"
             }
           ],
           "conditions": [
@@ -8410,10 +8345,7 @@
               "key_code": "n"
             },
             {
-              "key_code": "y"
-            },
-            {
-              "key_code": "e"
+              "key_code": "i"
             }
           ],
           "conditions": [
@@ -8446,10 +8378,7 @@
           },
           "to": [
             {
-              "key_code": "m"
-            },
-            {
-              "key_code": "y"
+              "key_code": "t"
             },
             {
               "key_code": "e"
@@ -8485,13 +8414,10 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "h"
             },
             {
-              "key_code": "y"
-            },
-            {
-              "key_code": "e"
+              "key_code": "a"
             }
           ],
           "conditions": [
@@ -8524,13 +8450,7 @@
           },
           "to": [
             {
-              "key_code": "g"
-            },
-            {
-              "key_code": "y"
-            },
-            {
-              "key_code": "e"
+              "key_code": ","
             }
           ],
           "conditions": [
@@ -8566,10 +8486,7 @@
               "key_code": "r"
             },
             {
-              "key_code": "y"
-            },
-            {
-              "key_code": "e"
+              "key_code": "i"
             }
           ],
           "conditions": [
@@ -8608,7 +8525,7 @@
               "key_code": "h"
             },
             {
-              "key_code": "e"
+              "key_code": "i"
             }
           ],
           "conditions": [
@@ -8641,10 +8558,10 @@
           },
           "to": [
             {
-              "key_code": "f"
+              "key_code": "k"
             },
             {
-              "key_code": "e"
+              "key_code": "a"
             }
           ],
           "conditions": [
@@ -8680,13 +8597,10 @@
               "key_code": "t"
             },
             {
-              "key_code": "e"
+              "key_code": "s"
             },
             {
-              "key_code": "x"
-            },
-            {
-              "key_code": "e"
+              "key_code": "u"
             }
           ],
           "conditions": [
@@ -8719,10 +8633,10 @@
           },
           "to": [
             {
-              "key_code": "j"
+              "key_code": "s"
             },
             {
-              "key_code": "e"
+              "key_code": "a"
             }
           ],
           "conditions": [
@@ -8761,7 +8675,7 @@
               "key_code": "h"
             },
             {
-              "key_code": "e"
+              "key_code": "i"
             }
           ],
           "conditions": [
@@ -8797,10 +8711,7 @@
               "key_code": "k"
             },
             {
-              "key_code": "y"
-            },
-            {
-              "key_code": "e"
+              "key_code": "i"
             }
           ],
           "conditions": [
@@ -8836,10 +8747,7 @@
               "key_code": "h"
             },
             {
-              "key_code": "y"
-            },
-            {
-              "key_code": "e"
+              "key_code": "i"
             }
           ],
           "conditions": [
@@ -8872,13 +8780,10 @@
           },
           "to": [
             {
-              "key_code": "u"
+              "key_code": "s"
             },
             {
-              "key_code": "x"
-            },
-            {
-              "key_code": "e"
+              "key_code": "o"
             }
           ],
           "conditions": [
@@ -10547,9 +10452,6 @@
           "to": [
             {
               "key_code": "s"
-            },
-            {
-              "key_code": "e"
             }
           ],
           "conditions": [
