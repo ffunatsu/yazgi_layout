@@ -7421,59 +7421,6 @@
           },
           "to": [
             {
-              "key_code": "page_down"
-            }
-          ],
-          "conditions": [
-            {
-              "type": "keyboard_type_if",
-              "keyboard_types": [
-                "jis"
-              ]
-            },
-            {
-              "type": "frontmost_application_unless",
-              "bundle_identifiers": [
-                "^com\\.apple\\.loginwindow$"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
-            "key_code": "q"
-          },
-          "to": [
-            {
-              "key_code": "hyphen"
-            }
-          ],
-          "conditions": [
-            {
-              "type": "keyboard_type_if",
-              "keyboard_types": [
-                "jis"
-              ]
-            },
-            {
-              "type": "frontmost_application_unless",
-              "bundle_identifiers": [
-                "^com\\.apple\\.loginwindow$"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
-            "key_code": "1"
-          },
-          "to": [
-            {
-              "key_code": "r"
-            },
-            {
               "key_code": "e"
             }
           ],
@@ -9830,9 +9777,6 @@
             }
           },
           "to": [
-            {
-              "key_code": "r"
-            },
             {
               "key_code": "e"
             }
@@ -12484,9 +12428,6 @@
             ]
           },
           "to": [
-            {
-              "key_code": "r"
-            },
             {
               "key_code": "e"
             }
@@ -19643,6 +19584,9 @@
             "key_code": "quote"
           },
           "to": [
+            {
+              "key_code": "r"
+            },
             {
               "key_code": "e"
             }
