@@ -38,6 +38,7 @@
   - タイピング練習用: [Yazgi_practice.yab](./Yazgi_practice.yab)
 - 紅皿 (Windows): [Yazgi.bnz](./Yazgi.bnz)
 - Karabiner-Elements (macOS): [Yazgi.karabiner.json](./Yazgi.karabiner.json) (Complex modificationsに追加。追加方法は割愛。)
+  - タイピング練習用: [Yazgi_practice.karabiner.json](./Yazgi_practice.karabiner.json)
 
 ※ やまぶきRがうまく動作しない場合は、UTF-8ではなくUTF-16LEかShift-JISで再保存してください。
 
