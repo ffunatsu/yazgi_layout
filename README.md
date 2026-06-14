@@ -38,6 +38,8 @@
 - 紅皿 (Windows): [Yazgi.bnz](./Yazgi.bnz)
 - Karabiner-Elements (macOS): [Yazgi.karabiner.json](./Yazgi.karabiner.json) (Complex modificationsに追加。追加方法は割愛。)
 
+※ やまぶきRがうまく動作しない場合は、UTF-8ではなくUTF-16LEかShift-JISで再保存してください。
+
 ## 設計思想
 
 see [docs/design.md](docs/design.md)
