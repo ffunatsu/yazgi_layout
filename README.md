@@ -35,6 +35,7 @@
 ## 設定ファイル
 
 - やまぶきR (Windows): [Yazgi.yab](./Yazgi.yab)
+  - タイピング練習用: [Yazgi_practice.yab](./Yazgi_practice.yab)
 - 紅皿 (Windows): [Yazgi.bnz](./Yazgi.bnz)
 - Karabiner-Elements (macOS): [Yazgi.karabiner.json](./Yazgi.karabiner.json) (Complex modificationsに追加。追加方法は割愛。)
 
