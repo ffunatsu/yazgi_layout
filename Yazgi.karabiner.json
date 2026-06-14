@@ -1076,9 +1076,6 @@
           },
           "to": [
             {
-              "key_code": "r"
-            },
-            {
               "key_code": "e"
             }
           ],
@@ -3729,9 +3726,6 @@
             ]
           },
           "to": [
-            {
-              "key_code": "r"
-            },
             {
               "key_code": "e"
             }
@@ -9596,9 +9590,6 @@
           },
           "to": [
             {
-              "key_code": "r"
-            },
-            {
               "key_code": "e"
             }
           ],
@@ -10801,6 +10792,9 @@
             "key_code": "quote"
           },
           "to": [
+            {
+              "key_code": "r"
+            },
             {
               "key_code": "e"
             }
