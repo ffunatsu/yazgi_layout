@@ -7993,31 +7993,6 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "p"
-          },
-          "to": [
-            {
-              "key_code": "hyphen"
-            }
-          ],
-          "conditions": [
-            {
-              "type": "keyboard_type_if",
-              "keyboard_types": [
-                "jis"
-              ]
-            },
-            {
-              "type": "frontmost_application_unless",
-              "bundle_identifiers": [
-                "^com\\.apple\\.loginwindow$"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
             "key_code": "open_bracket"
           },
           "to": [
@@ -19091,39 +19066,6 @@
             },
             {
               "key_code": "u"
-            }
-          ],
-          "conditions": [
-            {
-              "type": "keyboard_type_if",
-              "keyboard_types": [
-                "jis"
-              ]
-            },
-            {
-              "type": "frontmost_application_unless",
-              "bundle_identifiers": [
-                "^com\\.apple\\.loginwindow$"
-              ]
-            },
-            {
-              "type": "input_source_if",
-              "input_sources": [
-                {
-                  "language": "ja"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
-            "key_code": "p"
-          },
-          "to": [
-            {
-              "key_code": "hyphen"
             }
           ],
           "conditions": [
