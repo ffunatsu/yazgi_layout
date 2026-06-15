@@ -1,7 +1,7 @@
 # 作者所感
 
 > [!Note]
-> この項は、フォークの際は削除しても構いません。[`github.com/ffunatsu`](https://github.com/ffunatsu) による所感です。
+> このページは、フォークの際は削除しても構いません。[`github.com/ffunatsu`](https://github.com/ffunatsu) による所感です。
 
 ## 新下駄との比較
 
