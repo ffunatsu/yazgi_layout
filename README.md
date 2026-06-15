@@ -54,6 +54,10 @@ see [docs/analysis.md](docs/analysis.md)
 
 see [docs/notes.md](docs/notes.md)
 
+## 開発用メモ
+
+- [Karabiner変換作業メモ](./docs/karabiner.md)
+
 ## ライセンス / License
 
 - MIT License / Apache License / WTFPL License のトリプルライセンス。
