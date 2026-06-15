@@ -50,6 +50,10 @@ see [docs/design.md](docs/design.md)
 
 see [docs/analysis.md](docs/analysis.md)
 
+## 作者所感
+
+see [docs/notes.md](docs/notes.md)
+
 ## ライセンス / License
 
 - MIT License / Apache License / WTFPL License のトリプルライセンス。
