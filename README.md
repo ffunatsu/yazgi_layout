@@ -56,4 +56,4 @@ see [docs/notes.md](docs/notes.md)
 
 ## ライセンス / License
 
-- MIT License / Apache License / WTFPL License のトリプルライセンス。
+- MIT License / Apache License / WTFPL License のトリプルライセンス。（フォークや利用の際、好きなものを一つ選択してください。トリプルライセンスのままにしても、デュアルライセンスにしても構いません。）
