@@ -1,6 +1,6 @@
 # Karabiner変換作業メモ
 
-- https://potting.syuriken.jp/webApps/Yama2Kara/index.html を使用。
+- 「やまぶきRの設定ファイル(*.yab)をおおよそKarabiner-ElementsのJSONにするやーつ」 https://potting.syuriken.jp/webApps/Yama2Kara/index.html を使用。
 
 ## 手修正
 
