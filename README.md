@@ -1,8 +1,8 @@
 # 矢次配列 - Yazgi Layout
 
-![version](http://img.shields.io/badge/version-v0.1.4-blue.svg?style=flat)
+![version](http://img.shields.io/badge/version-v0.1.5-blue.svg?style=flat)
 
-***Y***et ***A***nother Next (= Tsugi = ***zgi***) ***Z***-***G***eneration Japanese ***I***nput Layout
+***Y***et ***A***nother Next (= Tsugi = ***zgi***) (***Z***-) ***G***eneration Japanese ***I***nput Layout
 
 [新下駄配列](https://kouy.exblog.jp/13627994/)の哲学を継承しつつ、より覚えやすく身近に。
 
