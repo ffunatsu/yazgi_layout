@@ -32,6 +32,10 @@
 - 各種特殊記号（`！`/`？`/`「」`/`（）`）は[新下駄](https://kouy.exblog.jp/13627994/)や[JIS下駄](https://github.com/ffunatsu/jis_geta)に準ずる。
   - メモ: `、` / `。` / `！` / `？` / `（` / `「` などについては、通常のローマ字入力通りのShift入力も可能。
 
+
+> [!Note]
+> 打ち方の具体例については、[docs/examples.md](docs/examples.md) に記載しています。
+
 ## 設定ファイル
 
 - やまぶきR (Windows): [Yazgi.yab](./Yazgi.yab)
